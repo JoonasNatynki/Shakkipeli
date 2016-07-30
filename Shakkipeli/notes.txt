@@ -1,0 +1,2 @@
+2) Pitäiskö palautusarvo Siirto olla pointteri Siirto * annaVastustajanSiirto() ettei turhaan kopioida olioita?
+3) get alkuRuutu/loppuRuutu pitäs palauttaa pointterit?
